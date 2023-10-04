@@ -229,6 +229,18 @@ comments syntax
 
 ### Awards
 
+#### 🥇 [PGRF 2023- Post Graduate Research Fund](#)
+- **Year**: Oct 2023
+- **Institution**: Macquarie University
+- **Prize**: Research & Travel Grant of Au$6000  
+- **Description**: Won a Research & Travel Grant of $6000 in the most competetive university wide competetion
+
+#### 🥇 [Inter University HDR Competition](#)
+- **Year**: July 2023
+- **Institution**: Macquarie University
+- **Prize**: 3rd Place- Cash Prize of Au$100  
+- **Description**: Won a Cash Prize of Au$100 in the Higher Degree Research Student university wide competetion
+
 #### 🥇 [Hackathon 2020 - Big Data Society, Macquarie University](#)
 - **Year**: March 2020
 - **Institution**: Big Data Society, Macquarie University
@@ -242,6 +254,16 @@ comments syntax
 - **Permanent Link**: [Skyfi Labs Certificate Verification](https://www.skyfilabs.com/verify-certificate/44390012)
 
 ## 🤝 Volunteering
+
+### International Conference on Sensing Technology (ICST)
+- **Role**: Reviewer
+- **Time**: Feb 2022 – Now
+- **Duties**: Review research papers and articles for the ICST conference.
+
+### School of Engineering & Computing, Macquarie University
+- **Role**: Co- Supervisor
+- **Time**: Feb 2021 – Present
+- **Duties**: Co- Supervise undergraduate and postgraduate students from engineering and computing departments in Macquarie University. 
 
 ### IEEE- Macquarie, Sydney
 - **Role**: Chair
