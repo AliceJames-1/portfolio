@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Alice James, a second-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots and communications.
+I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments.
 
 
 - **Coding Languages**: Python, C/C++, HTML, MATLAB
@@ -44,14 +44,14 @@ _Sept 2022 - Present_
 
 #### 🏙 [Smart City Project](https://www.youtube.com/watch?v=0uyoMNQnnaY)  
 _Nov 2019 - July 2021_  
-- Participated in a project funded by the Australian Government’s Smart Cities and Suburbs Program, in partnership with the City of Ryde Council.
+- Participated in a project funded by the Australian Government’s Smart Cities and Suburbs Program in partnership with the City of Ryde Council.
 - Responsibilities included the design of a sensor network, hardware prototyping, and real-time data analysis for a pedestrian counting system.
 
 ### 📚 Teaching @ Macquarie University
 
 #### 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide)  
 _July 2020 - Present_  
-- Co-designed and co-taught an advanced undergraduate course focused on hands-on experience in designing, building, and programming mobile robots using ROS.
+- Co-designed and co-taught an advanced undergraduate course on hands-on experience designing, building, and programming mobile robots using ROS.
 - Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
 
 #### 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide)  
@@ -59,11 +59,15 @@ _Feb 2021 - Present_
 - Co-designed and co-taught an advanced course that provides hands-on experience in designing, building, and programming sensor networks and IoT projects.
 - Lab sessions focus on skill development in sensor integration, web design, data analysis, and machine learning in IoT applications.
 
+#### 🤖 [COMP8291 IoT Embedded Operating Systems and Application Programming](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide)  
+_July 2024 - November 2024_  
+- Worked as a lab mentor
+- The unit investigates the Embedded OS internals by examining key concepts such as kernel architecture and threads, device models, interfaces and drivers, system calls, kernel, filesystem, and system utilities.
+
 #### 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide)  
 _July 2022 - Nov 2022_  
-- Served as a lab tutor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability.
-- The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by a team of academic experts.
-
+- Worked as a lab mentor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability.
+- The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by academic experts.
 
 ## 📚 Major Research Projects
 
@@ -131,7 +135,7 @@ Network, an Aviation and Aerospace based company. [Company](https://skyy.network
 - This is an advanced undergraduate course that teaches students hands-on experience in designing, building, and programming sensor networks and IoT projects. The lab sessions aim to develop their skills in sensor integration, web design, data analysis, and machine learning in IoT applications. This course is designed and co-taught by me, Subhas Mukhopadhyay, and Alice James. The course is designed to balance theory with an application on hardware.  [Unit_Guide](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide)
 
 **Casual Academic- ENGG2000/3000 Engineering Project Practice (_July 2022 - Nov 2022_)**
-- I served as a lab tutor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability. The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by a team of academic experts. [Unit_Guide](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide)
+- I worked as a lab tutor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability. The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by a team of academic experts. [Unit_Guide](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide)
 
 ## Work Experience- Solar Industry @ Quality Solar Sydney
 **Wordpress Web Developer & Sales Engineer (_March 2019 - Dec 2020_)**
@@ -161,6 +165,12 @@ comments syntax
 ## 📚 Research Publications
 
 ### 2024
+
+#### 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468)
+- **Conference**: DroNet '24: Proceedings of the 10th Workshop on Micro Aerial Vehicle Networks, Systems, and Applications
+- **Year**: 2024, **Month**: June
+- **Authors**: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **DOI**: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)
 
 #### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382)
 - **Journal**: arXiv
@@ -251,6 +261,17 @@ comments syntax
 
 ### Awards
 
+#### 🥇 [Inter University HDR Competition](#)
+- **Year**: July 2024
+- **Institution**: Macquarie University
+- **Prize**: 1st Place- Cash Prize of Au$300  
+- **Description**: Won a Cash Prize of Au$300 in the Higher Degree Research Student University wide competetion
+
+#### 🥇 [Annual Australian QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024)
+- **Year**: July 2024
+- **Institution**: Queensland University of Technology, Macquarie University
+- **Prize**: Mentored a team of students in our MQ Robotics Club for the Annual QUT Droid Racing Challenge and won 3rd Prize
+
 #### 🥇 [PGRF 2023- Post Graduate Research Fund](#)
 - **Year**: Oct 2023
 - **Institution**: Macquarie University
@@ -277,15 +298,19 @@ comments syntax
 
 ## 🤝 Volunteering
 
-### International Conference on Sensing Technology (ICST)
-- **Role**: Reviewer
-- **Time**: Feb 2022 – Now
-- **Duties**: Review research papers and articles for the ICST conference.
+### Peer Reviewer
+- [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+- [International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings)
+- [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS)
+- [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm)
+- [ACM MobiSys- DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html)
+- [MDPI- Information Journal](https://www.mdpi.com/journal/information)
+- [MDPI- Algorithms Journal](https://www.mdpi.com/journal/algorithms)
 
 ### School of Engineering & Computing, Macquarie University
-- **Role**: Co- Supervisor
+- **Role**: Co-Supervisor
 - **Time**: Feb 2021 – Present
-- **Duties**: Co- Supervise undergraduate and postgraduate students from engineering and computing departments in Macquarie University. 
+- **Duties**: Supervise undergraduate and postgraduate students from the engineering and computing departments at Macquarie University. 
 
 ### IEEE- Macquarie, Sydney
 - **Role**: Chair
