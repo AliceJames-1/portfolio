@@ -71,6 +71,10 @@ _July 2022 - Nov 2022_
 
 ## 📚 Major Research Projects
 
+### 📦 [Cooperative Drone Delivery]()  
+
+### 📦 [Mid-Air Drone Handoff]()  
+
 ### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
 - Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
 - Utilized Vertical Grid Screening methods to identify precise delivery locations.
@@ -270,13 +274,14 @@ comments syntax
 #### 🥇 [Annual Australian QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024)
 - **Year**: July 2024
 - **Institution**: Queensland University of Technology, Macquarie University
-- **Prize**: Mentored a team of students in our MQ Robotics Club for the Annual QUT Droid Racing Challenge and won 3rd Prize
+- **Prize**: 3rd Prize
+- **Description**: Mentored a team of students in our MQ Robotics Club for the Annual QUT Droid Racing Challenge and won 3rd Prize
 
 #### 🥇 [PGRF 2023- Post Graduate Research Fund](#)
 - **Year**: Oct 2023
 - **Institution**: Macquarie University
 - **Prize**: Research & Travel Grant of Au$6000  
-- **Description**: Won a Research & Travel Grant of $6000 in the most competetive university wide competetion
+- **Description**: Won a Research & Travel Grant of $6000 in the most competitive university-wide competition
 
 #### 🥇 [Inter University HDR Competition](#)
 - **Year**: July 2023
