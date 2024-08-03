@@ -183,6 +183,13 @@ comments syntax
 - **Year**: 2024, **Month**: March
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: 10.1145/3636534.3649382
+  
+#### 🚁 [RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations](10.1145/3636534.3649382https://arxiv.org/abs/2310.07378)
+- **Journal**: arXiv
+- **Year**: 2023, **Month**: Oct
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **DOI**: 
+
 
 ### 2023
 
