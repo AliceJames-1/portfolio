@@ -71,9 +71,11 @@ _July 2022 - Nov 2022_
 
 ## 📚 Major Research Projects
 
-### 📦 [Cooperative Drone Delivery]()  
+### 📦 [Cooperative Drone Delivery](https://doi.org/10.1145/3661810.3663468)  
 
-### 📦 [Mid-Air Drone Handoff]()  
+### 📦 [Mid-Air Drone Handoff](https://dl.acm.org/doi/10.1145/3636534.3649382) 
+
+### 📦 [High-speed counting of black soldier flies](https://www.nssn.org.au/arc)  
 
 ### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
 - Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
@@ -294,12 +296,6 @@ comments syntax
 - **Institution**: Big Data Society, Macquarie University
 - **Prize**: Second Place, Cash Prize of $1,700
 - **Description**: Won second place in an AI-Enabled Education Hackathon.
-
-### Certificates
-
-#### 🛩️ [Summer Training Program on Quadrotor and RC Aircraft](https://www.skyfilabs.com/verify-certificate/44390012)
-- **Certificate No**: 44390012
-- **Permanent Link**: [Skyfi Labs Certificate Verification](https://www.skyfilabs.com/verify-certificate/44390012)
 
 ## 🤝 Volunteering
 
