@@ -225,6 +225,12 @@ _Publication Date: 2021/10/28_
 
 ### Awards
 
+#### 🥇 [Inter University HDR Competition](#)
+- **Year**: July 2024
+- **Institution**: Macquarie University
+- **Prize**: 1st Place- Cash Prize of Au$300  
+- **Description**: Won a Cash Prize of Au$300 in the Higher Degree Research Student University wide competetion
+
 #### 🥇 [Annual Australian QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024)
 - **Year**: July 2024
 - **Institution**: Queensland University of Technology, Macquarie University
