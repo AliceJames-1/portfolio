@@ -4,17 +4,6 @@
 
 I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments. I believe in helping humanity by advancing science and engineering and making genuine efforts towards that goal.
 
-
-- **Coding Languages**: Python, C/C++, HTML, MATLAB
-- **Software Expertise**: ROS, Gazebo, Fusion 360 (CAD)
-- **Hardware Prototyping**: 
-  - SBCs: Raspberry Pi, Jetson Nano
-  - Embedded Platforms: Arduino, Teensy, ESP32
-  - Flight Control: Pixhawk
-  - Sensor Tech: RPLidar, IMU, Cameras
-- **AI & ML**: YOLOv5, OpenCV
-- **Tools**: Latex Overleaf, VS Code, GitHub
-
 ## 🎓 Education
 
 ### Macquarie University, Sydney
