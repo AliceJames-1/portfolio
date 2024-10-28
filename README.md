@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments. I believe in helping humanity by advancing science and engineering and making genuine efforts towards that goal.
+Hey, fellow human! I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments. I believe in helping humanity by advancing science and engineering and making genuine efforts towards that goal.
 
 ## 🎓 Education
 
@@ -24,17 +24,26 @@ I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at 
 
 ## 🛠 Work Experience
 
-### 🎓 Research @ Macquarie University
+### 🎓 Research Assistant @ Macquarie University
 
-#### 🚁 [Autonomous Drone Landing Project](https://skyy.network/partners/)  
+#### 🚁 [Autonomous Drone Landing Project](https://skyy.network/)  
 _Sept 2022 - Present_  
 - Engaged in an ARC-funded collaboration between Macquarie University's Computing Department and Skyy Network, an Aviation and Aerospace company.
 - Role involves implementing real-world testing of machine learning models specifically designed for outdoor drone operations.
 
+#### 🐝 [High speed counting of black soldier flies](https://www.nssn.org.au/arc)  
+_Jan 2024 - Dec 2024_  
+- Engaged in an NSSN-funded collaboration between Macquarie University's School of Engineering, ARC Entotech, and the International Centre for Neuromorphic Systems at Western Sydney.
+- Worked as a research assistant for the project, developing, prototyping, and deploying the neuromorphic vision system.
+
+#### 🌊 [Aquatic Robotics - USV and ROV]()  
+_Aug 2024 - Present_  
+- Ongoing
+
 #### 🏙 [Smart City Project](https://www.youtube.com/watch?v=0uyoMNQnnaY)  
 _Nov 2019 - July 2021_  
-- Participated in a project funded by the Australian Government’s Smart Cities and Suburbs Program in partnership with the City of Ryde Council.
-- Responsibilities included the design of a sensor network, hardware prototyping, and real-time data analysis for a pedestrian counting system.
+- Participated in a project funded by the Australian Government’s Smart Cities and Suburbs Program, in partnership with the City of Ryde Council.
+- Responsibilities included designing a sensor network, hardware prototyping, and real-time data analysis for a pedestrian counting system.
 
 ### 📚 Teaching @ Macquarie University
 
@@ -58,55 +67,6 @@ _July 2022 - Nov 2022_
 - Worked as a lab mentor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability.
 - The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by academic experts.
 
-## 📚 Major Research Projects
-
-### 📦 [Cooperative Drone Delivery](https://doi.org/10.1145/3661810.3663468) 
-- Ongoing
-
-### 📦 [Mid-Air Drone Handoff](https://dl.acm.org/doi/10.1145/3636534.3649382) 
-- Ongoing
-
-### 📦 [High-speed counting of black soldier flies](https://www.nssn.org.au/arc) 
-- Ongoing
-
-### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
-- Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
-- Utilized Vertical Grid Screening methods to identify precise delivery locations.
-- The drone features a 295 mm frame, stereo camera, and ranging sensor.
-- Implemented machine learning with a YOLOv5 model for marker recognition, achieving 95% accuracy and 398 ms detection time in outdoor tests.
-
-
-### 🚗 [1/10th Scale Autonomous Vehicle Based on CNN](https://sciendo.com/article/10.21307/ijssis-2020-021?tab=articoli-recenti)  
-_Authors: Avishkar Seth, Alice James, Subhas C Mukhopadhyay_  
-_Publication Date: 2020/1_  
-- Studied hardware prototyping for autonomous ground robots for different applications using CNN based computer vision system.
-- Explored the concept of autonomous vehicles, both on-road and off-road (AUGV).
-- Focused on path recognition, vehicle detection, and passenger transport.
-
-### 🛰 [TrackInk: IoT-Enabled Real-Time Object Tracking](https://www.mdpi.com/1424-8220/22/2/608)  
-_Authors: Cameron Aume, Keith Andrews, Shantanu Pal, Alice James, Avishkar Seth, Subhas Mukhopadhyay_  
-_Publication Date: 2022/1_  
-- Developed 'TrackInk' for real-time IoT object tracking in space.
-- Capable of pointing at and photographing visible satellites, including the ISS.
-- Utilizes sensor data for geolocation and 3D orientation.
-- Communicates with ThingSpeak for cloud-based data analysis.
-
-### 📘 [IoT System Design: Project Based Approach](https://doi.org/10.1007/978-3-030-85863-6)  
-_Authors: Alice James, Avishkar Seth, Subhas Chandra Mukhopadhyay_  
-_Publication Date: 2021/9/27_  
-- Comprehensive guide on IoT system design from sensors to cloud network.
-- Covers wireless communication, machine learning, and AI in IoT.
-- Aimed at upper-level students, researchers, and engineers.
-- Published by Springer, part of Smart Sensors, Measurement and Instrumentation series.
-- 15k accesses and 5 citations as of 2023.
-
-### 🦾 [Wearable Sensing System for Real-time 3D Posture Estimation](https://ieeexplore.ieee.org/abstract/document/9611778)  
-_Authors: Avishkar Seth, Alice James, Subhas Mukhopadhyay_  
-_Publication Date: 2021/10/28_  
-- Introduces a wearable system for real-time 3D posture estimation in lower back healthcare.
-- Utilizes BLE technology and IMU sensors for wireless communication and position tracking.
-- Aims to reduce hospitalization costs and enable self-rehabilitation.
-- Presented at 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
 
 ## 📚 Research Publications
 
