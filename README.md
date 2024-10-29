@@ -83,12 +83,25 @@ _July 2022 - Nov 2022_
 - **Year**: 2024, **Month**: March
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: 10.1145/3636534.3649382
-  
-#### 🚁 [RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations](10.1145/3636534.3649382https://arxiv.org/abs/2310.07378)
-- **Journal**: arXiv
-- **Year**: 2023, **Month**: Oct
-- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
-- **DOI**: https://doi.org/10.48550/arXiv.2310.07378
+
+#### 🚁 [Autonomous Drone Coordination in RF-denied Environments through Leader-Follower Systems and Computer Vision](https://ieeexplore.ieee.org/abstract/document/10715791/)
+- **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
+- **Year**: 2024
+- **Authors**: Endrowednes Kuantama, **Alice James**, Avishkar Seth
+- **Publisher**: ICARM
+
+
+#### 🚁 [Cooperative Drone Payload Delivery with Self Balancing Tray](https://ieeexplore.ieee.org/abstract/document/10715797/)
+- **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
+- **Year**: 2024
+- **Authors**: **Alice James**, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Publisher**: ICARM
+
+#### 🚁 [Flying IoT: Sensor Fusion Performance Analysis for UAV Applications in Indoor Spaces](https://doi.org/10.1007/978-3-031-68602-3_2)
+- **Book**: IoT Sensors, ML, AI and XAI: Empowering A Smarter World
+- **Year**: 2024
+- **Authors**: **Alice James**, Avishkar Seth, Natalia Chatrath, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Publisher**: Springer
 
 
 ### 2023
