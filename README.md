@@ -187,6 +187,12 @@ _July 2022 - Nov 2022_
 
 ### Awards
 
+#### 🥇 [Research Grant- Automatic Empty Locations check in the Warehouse using a Drone](#)
+- **Year**: Sept 2024
+- **Institution**: Macquarie University
+- **Prize**: Research Grant of Au$15,000  
+- **Description**: Chief Investigator on the project between Legrand and Macquarie University Drone Lab
+
 #### 🥇 [Inter University HDR Competition](#)
 - **Year**: July 2024
 - **Institution**: Macquarie University
