@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hey, fellow human! I'm Alice James, a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments. I believe in helping humanity by advancing science and engineering and making genuine efforts towards that goal.
+Hey, fellow human! I'm [Alice James](https://alicejames-1.github.io/index.html#home), a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop swarm aerial robots in diverse environments. I believe in helping humanity by advancing science and engineering and making genuine efforts towards that goal.
 
 ## 🎓 Education
 
@@ -50,7 +50,7 @@ _Nov 2019 - July 2021_
 #### 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide)  
 _July 2020 - Present_  
 - Co-designed and co-taught an advanced undergraduate course on hands-on experience designing, building, and programming mobile robots using ROS.
-- Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
+- Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation. [MecQaBots](https://github.com/AliceJames-1/MecQaBot)
 
 #### 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide)  
 _Feb 2021 - Present_  
@@ -235,10 +235,10 @@ _July 2022 - Nov 2022_
 - [MDPI- Algorithms Journal](https://www.mdpi.com/journal/algorithms)
 
 
-### School of Engineering & Computing, Macquarie University
+### [School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)
 - **Role**: Co-Supervisor
 - **Time**: Feb 2021 – Present
-- **Duties**: Supervise undergraduate and postgraduate students from the engineering and computing departments at Macquarie University. 
+- **Duties**: Supervise and Mentor undergraduate and postgraduate students and research assistants from the Faculty of Science and Engineering at Macquarie University. 
 
 ### IEEE- Macquarie, Sydney
 - **Role**: Chair
