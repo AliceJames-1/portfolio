@@ -193,7 +193,7 @@ _July 2022 - Nov 2022_
 
 ### Awards
 
-#### 🥇 [Travel Grant- AeroBridge, MobiCom 2024(https://dl.acm.org/doi/10.1145/3636534.3649382)
+#### 🥇 [Travel Grant- AeroBridge, MobiCom 2024](https://dl.acm.org/doi/10.1145/3636534.3649382)
 - **Year**: Nov 2024
 - **Institution**: Macquarie University
 - **Prize**: Travel Grant of Au$5000  
