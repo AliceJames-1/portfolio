@@ -72,14 +72,20 @@ _July 2022 - Nov 2022_
 
 ### 2024
 
+#### 🚁 [MecQaBot: A Modular Robot Sensing and Wireless Mechatronics Framework for Education and Research](https://arxiv.org/html/2411.13156v1)
+- **Conference**: ICST 2024, International Conference on Sensing Technology
+- **Year**: 2024, **Month**: December
+- **Authors**: Alice James, Avishkar Seth, Subhas Mukhopadhyay
+- **DOI**: https://arxiv.org/html/2411.13156v1
+
 #### 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468)
 - **Conference**: DroNet '24: Proceedings of the 10th Workshop on Micro Aerial Vehicle Networks, Systems, and Applications
 - **Year**: 2024, **Month**: June
 - **Authors**: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)
 
-#### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382)
-- **Journal**: arXiv
+#### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://dl.acm.org/doi/10.1145/3636534.3649382)
+- **Conference**: ACM Mobicom (A*)
 - **Year**: 2024, **Month**: March
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: 10.1145/3636534.3649382
@@ -186,6 +192,12 @@ _July 2022 - Nov 2022_
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
 
 ### Awards
+
+#### 🥇 [Travel Grant- AeroBridge, MobiCom 2024(https://dl.acm.org/doi/10.1145/3636534.3649382)
+- **Year**: Nov 2024
+- **Institution**: Macquarie University
+- **Prize**: Travel Grant of Au$5000  
+- **Description**: Travel grant for presenting our paper at Mobicom 2024
 
 #### 🥇 [Research Grant- Automatic Empty Locations check in the Warehouse using a Drone](#)
 - **Year**: Sept 2024
