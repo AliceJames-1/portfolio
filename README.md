@@ -45,7 +45,6 @@ Hey, fellow human! I'm [Alice James](https://alicejames-1.github.io/index.html#h
 
 - 🚗 [MecQaBot: A Modular Robot Sensing and Wireless Mechatronics Framework for Education and Research](https://arxiv.org/html/2411.13156v1) - Conference: ICST 2024, International Conference on Sensing Technology, 2024, December, Alice James, Avishkar Seth, Subhas Mukhopadhyay, DOI: [2411.13156v1](https://arxiv.org/html/2411.13156v1)
 - 🐝 [FlyCount: High-Speed Counting of Black Soldier Flies Using Neuromorphic Sensors](https://doi.org/10.1109/JSEN.2024.3504289), IEEE Sensors Journal, Authors: Alice James, Avishkar Seth, A. Marcireau, S. Mukhopadhyay, T. Hu, and R. Atayde. DOI: [10.1109/JSEN.2024.3504289](https://doi.org/10.1109/JSEN.2024.3504289).
-- 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468), DroNet '24, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)
 - 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468), DroNet '24, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)  
 - 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382), ACM Mobicom 2024, Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: 10.1145/3636534.3649382  
 - 🚁 [Autonomous Drone Coordination in RF-denied Environments](https://ieeexplore.ieee.org/abstract/document/10715791/), ICARM 2024, Authors: Endrowednes Kuantama, Alice James, Avishkar Seth  
@@ -99,21 +98,7 @@ Hey, fellow human! I'm [Alice James](https://alicejames-1.github.io/index.html#h
 
 - **Peer Reviewer**: [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS), [ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [MDPI Information](https://www.mdpi.com/journal/information), [MDPI Algorithms](https://www.mdpi.com/journal/algorithms)
 
-- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**  
-  - **Role**: Co-Supervisor  
-  - **Time**: Feb 2021 – Present  
-  - **Duties**: Supervise and mentor undergraduate and postgraduate students and research assistants from the Faculty of Science and Engineering at Macquarie University.
-
-- **IEEE- Macquarie, Sydney**  
-  - **Role**: Chair  
-  - **Time**: Feb 2019 – Present  
-  - **Duties**: Seminars, student engagement, conference representation.
-
-- **IEEE Women in Engineering, Sydney**  
-  - **Role**: Vice-Chair  
-  - **Time**: Feb 2019 – Present  
-  - **Duties**: Social media, website, event planning.
-
-- **Venture Cafe, Sydney**  
-  - **Role**: Ambassador  
-  - **Time**: Aug 2019 – Dec 2021  
+- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Present) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
+- **IEEE-Macquarie, Sydney**: Chair (Feb 2019 – Present) - Organize seminars, student engagement, and represent at conferences.
+- **IEEE Women in Engineering, Sydney**: Vice-Chair (Feb 2019 – Present) - Manage social media, website, and event planning.
+- **Venture Cafe, Sydney**: Ambassador (Aug 2019 – Dec 2021)
