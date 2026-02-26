@@ -120,14 +120,14 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 ## 🛠 Skills
 
-**Robotics & Autonomy:** `Robotics Systems` `UAV Autonomy` `PX4 / ArduPilot` `Pixhawk` `Flight Testing` `GPS RTK` `Sensor Fusion` `State Estimation`  
+**Robotics & Autonomy:** Robotics Systems | UAV Autonomy | PX4 / ArduPilot | Pixhawk | Flight Testing | GPS RTK | Sensor Fusion | State Estimation  
 
-**Embedded & Hardware:** `RTOS` `STM32` `Raspberry Pi` `Jetson Orin Nano` `UART/SPI/I2C/CAN` `PCB Design (KiCad, Eagle)` `Electrical Testing` `Hardware Debugging`  
+**Embedded & Hardware:** RTOS | STM32 | Raspberry Pi | Jetson Orin Nano | UART/SPI/I2C/CAN | PCB Design (KiCad, Eagle) | Electrical Testing | Hardware Debugging  
 
-**Software & Simulation:** `Python` `C++` `MATLAB` `ROS` `Git/GitHub` `Software Architecture` `Simulation & Validation` `Data Logging`  
+**Software & Simulation:** Python | C++ | MATLAB | ROS | Git/GitHub | Software Architecture | Simulation & Validation | Data Logging  
 
-**Design & Manufacturing:** `CAD (Fusion 360, SolidWorks, Bambu)` `3D Printing` `Mech-Electrical Integration`  
+**Design & Manufacturing:** CAD (Fusion 360, SolidWorks, Bambu) | 3D Printing | Mech-Electrical Integration  
 
-**Systems & Organisation:** `Lab Infrastructure` `Computing Devices Org` `Documentation (Overleaf)` `Experimental Design`  
+**Systems & Organisation:** Lab Infrastructure | Computing Devices Org | Documentation (Overleaf) | Experimental Design  
 
-**Leadership & Business:** `Project Management` `Research Translation` `Entrepreneurship` `High EQ` `Interpersonal Skills`  
+**Leadership & Business:** Project Management | Research Translation | Entrepreneurship | High EQ | Interpersonal Skills  
