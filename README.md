@@ -58,6 +58,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 
 ### 🏆 Awards  
+- 🥇 [Annual Australia QUT Droid Racing Challenge](https://qutrobotics.com/drc/2026), June 2026, Queensland University of Technology, 1st Prize, Mentored MQ Robotics Club team [MURC].  
 - 🥇 [Travel Grant - AeroBridge, MobiCom 2024](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024, Macquarie University, Au$5000, Travel grant for presenting at MobiCom 2024.    
 - 🥇 [Annual Australia QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024), July 2024, Queensland University of Technology, 3rd Prize, Mentored MQ Robotics Club team.  
 - 🥇 [Inter University HDR Competition](#), July 2024, 1st Place - Cash Prize of Au$300, in the Higher Degree Research Student University-wide competition.  
@@ -86,7 +87,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 * 🤖 [ModCAM: Scalable Multi-UAV System for Cooperative Aerial Manipulation](https://doi.org/10.1007/978-3-032-17804-6_1), Novel Sensing for Robotics and Drones (Springer Book Chapter), Authors: A. James, A. Seth, E. Kuantama, R. Han, S. Mukhopadhyay.
 
-* 🌊 Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring, 13th IEEE Conference on Technologies for Sustainability (SusTech 2026), Authors: E. Kuantama, A. James, A. Seth, N. Hou, M. Bishop. DOI Coming Soon.
+* 🌊 [Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring](https://ieeexplore.ieee.org/abstract/document/11536245), 13th IEEE Conference on Technologies for Sustainability (SusTech 2026), Authors: E. Kuantama, A. James, A. Seth, N. Hou, M. Bishop.
 
 ### 2025
 * 🚁 [Synchronized Mid-Air Drone Docking During Translational Motion](https://ieeexplore.ieee.org/document/11375893), 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Authors: Avishkar Seth, **A. James**, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, Chengdu, China, 2025, pp. 757-763.  
