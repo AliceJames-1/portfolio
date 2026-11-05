@@ -1,13 +1,13 @@
-# Robotics Research Engineer
+# Senior Research Officer (Robotics and Drone Systems)
 
 ### [About Me](https://alicejames-1.github.io/)
 
-Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.html#home), a Robotics Research Engineer at Macquarie University. I work with robotics, avionics, and sensing systems, with a strong focus on aerial robot autonomy. I enjoy turning ideas into working systems and guiding others through training and practical learning. I’m also interested in entrepreneurship and the business side of technology, especially where engineering meets real impact. At my core, I’m curious. I believe the meaning of life is to live fully, explore, connect, and keep expanding our understanding of humanity and the universe around us. This shapes the way I work & build. I’m open to meaningful collaborations in robotics, innovation, and applied research.
+Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.html#home), a Senior Research Officer (robotics and drone systems) at Macquarie University. I work with robotics, avionics, and sensing systems, with a strong focus on aerial robot autonomy. I enjoy turning ideas into working systems and guiding others through training and practical learning. I’m also interested in entrepreneurship and the business side of technology, especially where engineering meets real impact. At my core, I’m curious. I believe the meaning of life is to live fully, explore, connect, and keep expanding our understanding of humanity and the universe around us. This shapes the way I work & build. I’m open to meaningful collaborations in robotics, innovation, and applied research.
 
 ## 🛠 Work Experience
 
-### 🎓 Robotics Research Engineer @ Macquarie University  
-- 🚁 [Advanced Drone Systems Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems), Jan 2025 - Present: I'm working as a Senior Research Officer on multiple projects in the aerial robot autonomy and sensing space. Our centre has also received $2M+ in grant funding for the [Project Title: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology) where I am the Chief Investigator.
+### 🎓 Senior Research Officer @ Macquarie University  
+- 🚁 [Advanced Drone Systems Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems), Jan 2025 - Present: I'm working on multiple projects in the aerial robot autonomy and sensing space. Our centre has also received $2M+ in grant funding for the [Project Title: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology) where I am the Chief Investigator.
 
 ### 🎓 Lecturer and Unit Convenor @ Macquarie University 
 - July 2024 - Present. I am a sessional lecturer and unit convenor for the units taught in Engineering [MTRN4068 Wireless Mechatronics] and Computing [COMP8291 IoT Embedded Operating Systems and Application Programming] teaching basics of autonomous robotics, and STM32 RTOS based programming.
@@ -37,9 +37,9 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
   _July 2011 - June 2013_		
 
 ### 📚 Teaching @ Macquarie University  
-- 🤖 [COMP8291 IoT Embedded Operating Systems and Application Programming](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide), July 2024 - Present: Lecturer and Unit Convenor for unit on Embedded OS internals, covering kernel architecture, threads, device models, drivers, system calls, and filesystem utilities. This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
+- 🤖 [COMP8291 IoT Embedded Operating Systems and Application Programming](https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide), July 2024 - Present: Lecturer and Unit Convenor for unit on Embedded OS internals, covering kernel architecture, threads, device models, drivers, system calls, and filesystem utilities. This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
 - 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide), July 2020 - Present: Co-designed and co-taught an advanced undergraduate course on mobile robot design, programming, and hands-on experience using ROS, focusing on motor control, computer vision, mapping, localization, and navigation. [MecQaBots](https://github.com/AliceJames-1/MecQaBot)  
-- 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide), Feb 2021 - Present: Co-designed and co-taught an advanced course in designing, building, and programming IoT systems, focusing on sensor integration, web design, data analysis, and machine learning for IoT applications.  
+- 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide), Feb 2021 - Dec 2025: Co-designed and co-taught an advanced course in designing, building, and programming IoT systems, focusing on sensor integration, web design, data analysis, and machine learning for IoT applications.  
 - 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide), July 2022 - Nov 2022: Lab mentor for the SPINE unit, which blends online modules with hands-on, project-based learning to develop professional and transferable competencies.  
 
 ## 🏆 Achievements
@@ -50,12 +50,12 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 - 🥇 **[Flexible-PCB Conformal sEMG Wristband for the Tactical Neural Interface](https://defenceinnovationnetwork.com/project/ovrd/)**,July 2026: **Au$20,000**.  Chief Investigator on a Macquarie University Defense Innovation (DIN) grant partnering with ØVRD, an Australian-founded sovereign defense company building the Tactical Neural Interface.
 - 🥇 **[Deep Vision in Autonomous Underwater 3D Mapping for Biodiversity Assessment](https://researchers.mq.edu.au/en/projects/deep-vision-in-autonomous-underwater-3d-mapping-for-biodiversity-/)**, June 2025 – May 2026: **Chief Investigator**. An international research collaboration between Ghent University and Macquarie University utilizing Gaussian Splatting for marine monitoring.
 - 🥇 **[Virtual-GPS for GNSS-Denied Airspace](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems/our-projects)**, 2025: Project lead on beacon-based sensing and stochastic control systems for resilient UAS navigation in contested environments.
-- 🥇 **[Warehouse Automation Grant](https://researchers.mq.edu.au/en/persons/avishkar-seth/)**, Sept 2024: **Au$15,000**. Chief Investigator for "Automatic Empty Locations Check in the Warehouse using a Drone" in partnership with Legrand.
+- 🥇 **[Warehouse Automation Grant](https://researchers.mq.edu.au/en/persons/alice-james-2)**, Sept 2024: **Au$15,000**. Chief Investigator for "Automatic Empty Locations Check in the Warehouse using a Drone" in partnership with Legrand.
 - 🥇 [**PGRF 2023 - Post Graduate Research Fund**](#), Oct 2023, Macquarie University, Au$6000, Research & Travel Grant in competitive university-wide competition. 
 
 ### Patents  
 - 🥇 [Mid-air Drone to Drone Balanced Item Handoff](#), Provisional Patent Filed: MQC Ref: 2023005, Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han  
-- 🥇 [Intelligent and adaptive balanced lift via drone swarms](#), Provisional Patent Filed: MQC Ref: 2023005, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han  
+- 🥇 [Intelligent and adaptive balanced lift via drone swarms](#), Provisional Patent Filed: MQC Ref: 2023004, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han  
 
 
 ### 🏆 Awards  
@@ -74,9 +74,9 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 - **Peer Reviewer**: [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS), [ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [MDPI Information](https://www.mdpi.com/journal/information), [MDPI Algorithms](https://www.mdpi.com/journal/algorithms), [Guest Editor- Symmetry in Robotics and Aerial Systems: Theory, Learning and Applications](https://www.mdpi.com/journal/symmetry/special_issues/53V0MR3JQ4)
 
-- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Present) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
-- **IEEE-Macquarie, Sydney**: Chair (Feb 2019 – Oct 2025) - Organize seminars, student engagement, and represent at conferences.
-- **IEEE Women in Engineering, Sydney**: Vice-Chair (Feb 2019 – Oct 2025) - Manage social media, website, and event planning.
+- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Dec 2025) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
+- **IEEE-Macquarie, Sydney**: Chair (Feb 2019 – Dec 2025) - Organize seminars, student engagement, and represent at conferences.
+- **IEEE Women in Engineering, Sydney**: Vice-Chair (Feb 2019 – Dec 2025) - Manage social media, website, and event planning.
 - **Venture Cafe, Sydney**: Ambassador (Aug 2019 – Dec 2021)
 
 
@@ -84,7 +84,11 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 ### 2026
 
-* 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAMQU8MAAAAJ&sortby=pubdate&citation_for_view=bAMQU8MAAAAJ:qUcmZB5y_30C), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Authors: A. James, A. Seth, et al.
+* 🚁 [HARP: Handoff-Aware Recovery Planning for Active Target Acquisition in Multi-UAV Handoff](https://arxiv.org/abs/2610.33640), *arXiv:2610.33640 [cs.RO]*, Authors: H. Kim, **A. James**, A. Seth, E. Kuantama, R. Han.
+
+* 🚁 [PATH: Continuous Target Sensing among Autonomous Cooperative Drones](https://arxiv.org/abs/2609.12456), *arXiv:2609.12456 [cs.RO]*, Authors: H. Kim, **A. James**, A. Seth, E. Kuantama, J. Williamson, Y. Feng, R. Han.
+
+* 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://scholar.google.com/citations?user=bmG48osAAAAJ&hl=en), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Authors: A. James, A. Seth, et al.
 
 * 🤖 [ModCAM: Scalable Multi-UAV System for Cooperative Aerial Manipulation](https://doi.org/10.1007/978-3-032-17804-6_1), Novel Sensing for Robotics and Drones (Springer Book Chapter), Authors: A. James, A. Seth, E. Kuantama, R. Han, S. Mukhopadhyay.
 
@@ -100,6 +104,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 ### 2024
 
+- 🚁 [Poster: Cooperative UAV Sensor Fusion for Precision Localization and Navigation in Load Transport](https://doi.org/10.1145/3666025.3699425), ACM SenSys 2024 Poster, 22nd ACM Conference on Embedded Networked Sensor Systems, pp. 895-896, Authors: **A. James**, E. Kuantama, A. Seth, R. Han, S. Mukhopadhyay
 - 🚗 [MecQaBot: A Modular Robot Sensing and Wireless Mechatronics Framework for Education and Research](https://arxiv.org/html/2411.13156v1) - Conference: ICST 2024, International Conference on Sensing Technology, 2024, December, Alice James, Avishkar Seth, Subhas Mukhopadhyay, DOI: [2411.13156v1](https://arxiv.org/html/2411.13156v1)
 - 🐝 [FlyCount: High-Speed Counting of Black Soldier Flies Using Neuromorphic Sensors](https://doi.org/10.1109/JSEN.2024.3504289), IEEE Sensors Journal, Authors: Alice James, Avishkar Seth, A. Marcireau, S. Mukhopadhyay, T. Hu, and R. Atayde. DOI: [10.1109/JSEN.2024.3504289](https://doi.org/10.1109/JSEN.2024.3504289).
 - 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468), DroNet '24, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)  
