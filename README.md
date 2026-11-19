@@ -10,7 +10,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 - 🚁 [Advanced Drone Systems Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems), Jan 2025 - Present: I'm working on multiple projects in the aerial robot autonomy and sensing space. Our centre has also received $2M+ in grant funding for the [Project Title: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology) where I am the Chief Investigator.
 
 ### 🎓 Lecturer and Unit Convenor @ Macquarie University 
-- July 2024 - Present. I am a sessional lecturer and unit convenor for the units taught in Engineering [MTRN4068 Wireless Mechatronics] and Computing [COMP8291 IoT Embedded Operating Systems and Application Programming] teaching basics of autonomous robotics, and STM32 RTOS based programming.
+- July 2024 - July 2026. I was a sessional lecturer and unit convenor for the units taught in Engineering [MTRN4068 Wireless Mechatronics] and Computing [COMP8291 IoT Embedded Operating Systems and Application Programming] teaching basics of autonomous robotics, and STM32 RTOS based programming.
 
 ### 🎓 Research Assistant @ Macquarie University  
 - 🚁 [Autonomous Drone Landing Project](https://skyy.network/), Sept 2022 - Jan 2026: Engaged in an ARC-funded collaboration with Skyy Network to implement real-world testing of machine learning models for outdoor drone operations.  
@@ -37,8 +37,8 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
   _July 2011 - June 2013_		
 
 ### 📚 Teaching @ Macquarie University  
-- 🤖 [COMP8291 IoT Embedded Operating Systems and Application Programming](https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide), July 2024 - Present: Lecturer and Unit Convenor for unit on Embedded OS internals, covering kernel architecture, threads, device models, drivers, system calls, and filesystem utilities. This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
-- 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide), July 2020 - Present: Co-designed and co-taught an advanced undergraduate course on mobile robot design, programming, and hands-on experience using ROS, focusing on motor control, computer vision, mapping, localization, and navigation. [MecQaBots](https://github.com/AliceJames-1/MecQaBot)  
+- 🤖 [COMP8291 IoT Embedded Operating Systems and Application Programming](https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide), July 2024 - July 2026: Lecturer and Unit Convenor for unit on Embedded OS internals, covering kernel architecture, threads, device models, drivers, system calls, and filesystem utilities. This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
+- 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide), July 2020 - July 2026: Co-designed and co-taught an advanced undergraduate course on mobile robot design, programming, and hands-on experience using ROS, focusing on motor control, computer vision, mapping, localization, and navigation. [MecQaBots](https://github.com/AliceJames-1/MecQaBot)  
 - 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide), Feb 2021 - Dec 2025: Co-designed and co-taught an advanced course in designing, building, and programming IoT systems, focusing on sensor integration, web design, data analysis, and machine learning for IoT applications.  
 - 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide), July 2022 - Nov 2022: Lab mentor for the SPINE unit, which blends online modules with hands-on, project-based learning to develop professional and transferable competencies.  
 
@@ -74,7 +74,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 - **Peer Reviewer**: [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS), [ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [MDPI Information](https://www.mdpi.com/journal/information), [MDPI Algorithms](https://www.mdpi.com/journal/algorithms), [Guest Editor- Symmetry in Robotics and Aerial Systems: Theory, Learning and Applications](https://www.mdpi.com/journal/symmetry/special_issues/53V0MR3JQ4)
 
-- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Dec 2025) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
+- **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Present) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
 - **IEEE-Macquarie, Sydney**: Vice-Chair (Feb 2019 – Dec 2025) - Organize seminars, student engagement, and represent at conferences.
 - **IEEE Women in Engineering, Sydney**: Secretary (Feb 2019 – Dec 2025) - Manage social media, website, and event planning.
 - **Venture Cafe, Sydney**: Ambassador (Aug 2019 – Dec 2021)
