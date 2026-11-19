@@ -75,8 +75,8 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 - **Peer Reviewer**: [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS), [ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [MDPI Information](https://www.mdpi.com/journal/information), [MDPI Algorithms](https://www.mdpi.com/journal/algorithms), [Guest Editor- Symmetry in Robotics and Aerial Systems: Theory, Learning and Applications](https://www.mdpi.com/journal/symmetry/special_issues/53V0MR3JQ4)
 
 - **[School of Engineering & Computing, Macquarie University](https://alicejames-1.github.io/new_pages/mentor_students.html)**: Co-Supervisor (Feb 2021 – Dec 2025) - Supervise and mentor students and research assistants in the Faculty of Science and Engineering.
-- **IEEE-Macquarie, Sydney**: Chair (Feb 2019 – Dec 2025) - Organize seminars, student engagement, and represent at conferences.
-- **IEEE Women in Engineering, Sydney**: Vice-Chair (Feb 2019 – Dec 2025) - Manage social media, website, and event planning.
+- **IEEE-Macquarie, Sydney**: Vice-Chair (Feb 2019 – Dec 2025) - Organize seminars, student engagement, and represent at conferences.
+- **IEEE Women in Engineering, Sydney**: Secretary (Feb 2019 – Dec 2025) - Manage social media, website, and event planning.
 - **Venture Cafe, Sydney**: Ambassador (Aug 2019 – Dec 2021)
 
 
