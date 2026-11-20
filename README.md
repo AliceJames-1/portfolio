@@ -59,6 +59,7 @@ Hey, fellow human! I'm [Dr Alice James](https://alicejames-1.github.io/index.htm
 
 
 ### 🏆 Awards  
+- 🥇 [Avalon Airshow Innovation Pitchfest and Awards](https://airshow.com.au/initiatives/connect/innovation-program/innovation-awards-sub/), Nov 2026, Avalon Australian International Airshow, Finalist, Dronergy: Autonomous Mid-Air Drone Battery Service System (Macquarie University).  
 - 🥇 [Annual Australia QUT Droid Racing Challenge](https://qutrobotics.com/drc/2026), June 2026, Queensland University of Technology, 1st Prize, Mentored MQ Robotics Club team [MURC].  
 - 🥇 [Travel Grant - AeroBridge, MobiCom 2024](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024, Macquarie University, Au$5000, Travel grant for presenting at MobiCom 2024.    
 - 🥇 [Annual Australia QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024), July 2024, Queensland University of Technology, 3rd Prize, Mentored MQ Robotics Club team.  
